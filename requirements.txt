@@ -1,4 +1,6 @@
 pandas
-numpy
+numpy==1.26.4
 sklearn
 catboost
+seaborn
+optuna
